@@ -11,4 +11,9 @@ public class Example1 {
 	private void method2() {
 		System.out.println("Hello");
 	}
+	
+	private void method3() {
+		System.out.println("hey");
+
+	}
 }
